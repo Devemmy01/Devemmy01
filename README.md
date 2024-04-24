@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">I'm a computer science student with a love for all things tech. Currently, I'm diving into the world of frontend development, with an eye towards mastering the full stack. 🌐✨</h3> <br>
-<img src="https://github.com/Devemmy01/Devemmy01/assets/87545460/0d8e06b9-d898-4d01-a358-564073c0392c" height="400" align="right" alt="devemmy01" />
+<img src="https://github.com/Devemmy01/Devemmy01/assets/87545460/0d8e06b9-d898-4d01-a358-564073c0392c" height="500" align="right" alt="devemmy01" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devemmy01&label=Profile%20views&color=0e75b6&style=flat" alt="devemmy01" /> </p>
 
