@@ -81,7 +81,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=devemmy01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4) <br>
 
 
-## 📊 GitHub Stats:
+## 🚀 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=devemmy01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -91,8 +91,8 @@
 </div> <br>
 
 
-## ✍️ Random Dev Quote
+## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <br>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">😇 Feeling generous?</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nuelcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nuelcodes" /></a></p><br>
