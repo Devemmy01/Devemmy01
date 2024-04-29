@@ -85,7 +85,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devemmy01&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="devemmy01" /></p>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=devemmy01&theme=tokyonight&hide_border=true) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devemmy01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devemmy01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div> <br>
