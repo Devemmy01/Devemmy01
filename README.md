@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/devemmy25" target="blank"><img src="https://img.shields.io/twitter/follow/devemmy25?logo=twitter&style=for-the-badge" alt="devemmy25" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and NextJs**
 
 - 💬 Ask me about **Javascript, React**
 
@@ -43,6 +43,7 @@
   <!-- React -->
 <!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/7dfb0aa4-2e44-4840-93d2-02406bac6f50" alt="nextjs" width="40" height="40"/>
 <!--   </a> -->
   <!-- TypeScript -->
 <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> -->
