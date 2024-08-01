@@ -4,8 +4,6 @@
 <h3 align="center">I'm a computer science student with a love for all things tech. I am Currently diving into the world of frontend development, with an eye towards mastering the full stack. 🌐✨</h3> <br>
 <img src="https://github.com/Devemmy01/Devemmy01/assets/87545460/0d8e06b9-d898-4d01-a358-564073c0392c" height="500" align="right" alt="devemmy01" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devemmy01&label=Profile%20views&color=0e75b6&style=flat" alt="devemmy01" /> </p>
-
 <p align="left"> <a href="https://twitter.com/devemmy25" target="blank"><img src="https://img.shields.io/twitter/follow/devemmy25?logo=twitter&style=for-the-badge" alt="devemmy25" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript and NextJs**
