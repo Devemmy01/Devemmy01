@@ -42,6 +42,8 @@
 <!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://github.com/user-attachments/assets/7dfb0aa4-2e44-4840-93d2-02406bac6f50" alt="nextjs" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.VjYP1UlejFM2cfE3_98E1AHaEK?rs=1&pid=ImgDetMain" alt="vuejs" width="50" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.d-6MVHPF_4oohY2lCkzl3wAAAA?w=400&h=400&rs=1&pid=ImgDetMain" alt="nuxtjs" width="40" height="40"/>
 <!--   </a> -->
   <!-- TypeScript -->
 <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> -->
