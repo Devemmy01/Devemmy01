@@ -94,6 +94,3 @@
 
 ## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <br>
-
-<h3 align="left">😇 Feeling generous?</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nuelcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nuelcodes" /></a></p><br>
