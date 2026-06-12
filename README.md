@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">Full-Stack Developer | Building scalable web apps with modern tools and cloud-native infrastructure. 🌐✨</h3>
+<h3 align="center">Full-Stack Developer | Building scalable web apps with modern tools and cloud-native infrastructure.</h3>
 
 <br>
 
